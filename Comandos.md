@@ -33,7 +33,7 @@ ______
 
 **{"clave2" : {"clave2.1":valor2.1"}}**
 
-**{"clave3" : ["valor3.1","valor3.2","valor3.3"]}**
+**{"clave3" : ["zvalor3.1","valor3.2","valor3.3"]}**
 
 # COMANDOS Para usar mongosh en mongoDB:
     1. Show dbs o show database (Para ver tus bases de datos creadas).
